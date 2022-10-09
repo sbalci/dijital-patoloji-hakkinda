@@ -1,5 +1,12 @@
 # Dijital Patoloji Hakkında / Dijital Patolojiye Dair
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7135447.svg)](https://doi.org/10.5281/zenodo.7135447) 
+
+https://doi.org/10.5281/zenodo.7135447
+
+[DOI: 10.17605/OSF.IO/9345U](https://osf.io/9345u/)
+
+
 ## Dijital Patoloji nedir?
 
 Dijital patolojiyi patoloji incelemesinde kullanılan preparatların yüksek çözünürlükte taranarak bilgisayar ortamına aktarılması ve bu görüntülerin iletilme ve işlenme süreci olarak tanımlayabiliriz.
